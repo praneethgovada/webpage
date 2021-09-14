@@ -1,1 +1,1 @@
-https://praneethgovada.github.io/webpage/
+https://praneethgovada.github.io/webpage/webpage.html
